@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     var alphaValue = 0.5
     var brushSize = 147.5
     
-    
+    //arif
     var maskLayer = CALayer()
     var renderer: UIGraphicsImageRenderer?
     var maskImage: UIImage?

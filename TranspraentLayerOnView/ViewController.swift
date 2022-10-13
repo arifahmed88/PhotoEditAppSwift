@@ -31,6 +31,7 @@ class ViewController: UIViewController {
     var brushSize = 147.5
     
     //arif
+    
     var maskLayer = CALayer()
     var renderer: UIGraphicsImageRenderer?
     var maskImage: UIImage?
